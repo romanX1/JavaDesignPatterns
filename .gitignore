@@ -4,3 +4,8 @@
 *.iws
 # Project exclude paths
 /target/
+
+# User-specific stuff:
+ .idea/workspace.xml
+# .idea/tasks.xml
+# .idea/dictionaries
