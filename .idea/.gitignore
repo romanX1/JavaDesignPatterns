@@ -1,9 +1,0 @@
-*.xml
-*.iml
-**
-*.local.xml
-/workspace.xml
-/compiler.xml
-/modules.xml
-/vcs.xml
-/dataSources.local.xml
